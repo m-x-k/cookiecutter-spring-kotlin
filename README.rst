@@ -18,3 +18,4 @@ Use cookiecutter-spring-kotlin
 ----------------------------
 
 cookiecutter https://github.com/m-x-k/cookiecutter-spring-kotlin
+
