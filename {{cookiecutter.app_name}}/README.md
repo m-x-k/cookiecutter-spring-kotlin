@@ -2,7 +2,8 @@
 
 # Requirements
 
-* JDK version 7+
+* JDK version 8+
+* Kotlin version 1.0.5 (see build.gradle)
 
 ## Compile and run tests
 
@@ -30,4 +31,3 @@
 ```
 
 In a browser go to `http://localhost:8080/`.
-

@@ -1,10 +1,10 @@
-cookiecutter-spring-boot
-========================
+cookiecutter-spring-kotlin
+==========================
 
 .. _cookiecutter: https://github.com/audreyr/cookiecutter
 
-.. image:: https://travis-ci.org/m-x-k/cookiecutter-spring-boot.svg
-    :target: https://travis-ci.org/m-x-k/cookiecutter-spring-boot
+.. image:: https://travis-ci.org/m-x-k/cookiecutter-spring-kotlin.svg
+    :target: https://travis-ci.org/m-x-k/cookiecutter-spring-kotlin
     :alt: Build Status
 
 Requires
@@ -12,9 +12,9 @@ Requires
 
 * Python
 * Cookiecutter `brew install cookiecutter` or `pip install cookiecutter`
-* JDK 7+
+* JDK 8+
 
-Use cookiecutter-spring-boot
+Use cookiecutter-spring-kotlin
 ----------------------------
 
-cookiecutter https://github.com/m-x-k/cookiecutter-spring-boot
+cookiecutter https://github.com/m-x-k/cookiecutter-spring-kotlin
