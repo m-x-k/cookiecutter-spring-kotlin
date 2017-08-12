@@ -12,6 +12,7 @@ Requires
 
 * Python
 * Cookiecutter `brew install cookiecutter` or `pip install cookiecutter`
+* Kotlin
 * JDK 8+
 
 Use cookiecutter-spring-kotlin
