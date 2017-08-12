@@ -3,7 +3,7 @@
 # Requirements
 
 * JDK version 8+
-* Kotlin version 1.0.5 (see build.gradle)
+* Kotlin version 1.1.3 (see build.gradle)
 
 ## Compile and run tests
 
